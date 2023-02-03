@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bulding_PillarApp", "Bulding_PillarApp\Bulding_PillarApp.csproj", "{A5730247-7E1C-4AF2-9809-1A381A6BBA4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5730247-7E1C-4AF2-9809-1A381A6BBA4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5730247-7E1C-4AF2-9809-1A381A6BBA4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5730247-7E1C-4AF2-9809-1A381A6BBA4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5730247-7E1C-4AF2-9809-1A381A6BBA4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E8F2338-A35A-4A77-863E-39AC709CE197}
+	EndGlobalSection
+EndGlobal
