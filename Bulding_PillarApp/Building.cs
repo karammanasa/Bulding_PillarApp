@@ -9,6 +9,8 @@ namespace Bulding_PillarApp
     internal class Building
     {
 
+        // This is added to demo Pull functionality in GIT
+        // Please dont add comments like this in the code
         public Building() { }
         public int numberOfFloors = 4;
         //name,pillars,address,colour
