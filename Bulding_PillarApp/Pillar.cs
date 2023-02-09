@@ -9,7 +9,7 @@ namespace Bulding_PillarApp
     internal class Pillar
     {
         
-
+        // This comment is only to demo ull Request in Azure DevOps
         public Pillar(string name,DateTime iDate,string hbeam,string vbeam) {
 
         pillarName= name.ToLower();
